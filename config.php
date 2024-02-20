@@ -1,0 +1,1 @@
+<p>config testing page</p>
